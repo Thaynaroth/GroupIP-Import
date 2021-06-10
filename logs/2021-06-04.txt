@@ -1,0 +1,86 @@
+Run at June 4th 2021, 10:13:17 am data from - date 20210603-20210604
+      - CORDERO  numberSecurity: [ 243036220100823 ]  exist, skip insertion
+      - BERTELOOT  - 190075918312485 , inserted
+      - FERKOUS  - 189065954007233 , inserted
+      - MARSYLLE  numberSecurity: [ 195095927123432 ]  exist, skip insertion
+      - LINGURAR  - 171039911410719 , inserted
+Finish at June 4th 2021, 10:13:23 am
+New personnels inserted: 4, dubplate personnels: 2
+      - MOTAOUAKKIL  - 170019938057131 , inserted
+Run at June 4th 2021, 10:19:24 am data from - date 20210603-20210604
+New personnels inserted: 6, dubplate personnels: 0
+Finish at June 4th 2021, 10:19:29 am
+Run at June 4th 2021, 10:21:00 am data from - date 20210603-20210604
+New personnels inserted: 6, dubplate personnels: 0
+Finish at June 4th 2021, 10:21:06 am
+Run at June 4th 2021, 10:23:07 am data from - date 20210603-20210604
+New personnels inserted: 6, dubplate personnels: 0
+Finish at June 4th 2021, 10:23:13 am
+Run at June 4th 2021, 10:30:56 am data from - date 20210603-20210604
+Run at June 4th 2021, 10:34:00 am data from - date 20210603-20210604
+New personnels inserted: 6, dubplate personnels: 0
+Finish at June 4th 2021, 10:34:06 am
+Run at June 4th 2021, 10:36:43 am data from - date 20210603-20210604
+New personnels inserted: 6, dubplate personnels: 0
+Finish at June 4th 2021, 10:36:49 am
+Run at June 4th 2021, 11:06:05 am data from - date 20210603-20210604
+      - CORDERO  numberSecurity: [ 243036220100823 ]  exist, skip insertion
+      - BERTELOOT  numberSecurity: [ 190075918312485 ]  exist, skip insertion
+      - FERKOUS  numberSecurity: [ 189065954007233 ]  exist, skip insertion
+      - LINGURAR  numberSecurity: [ 171039911410719 ]  exist, skip insertion
+      - MOTAOUAKKIL  numberSecurity: [ 170019938057131 ]  exist, skip insertion
+      - MARSYLLE  numberSecurity: [ 195095927123432 ]  exist, skip insertion
+New personnels inserted: 0, dubplate personnels: 6
+Finish at June 4th 2021, 11:06:12 am
+Run at June 4th 2021, 11:08:11 am data from - date 20210603-20210604
+New personnels inserted: 6, dubplate personnels: 0
+Finish at June 4th 2021, 11:08:16 am
+Run at June 4th 2021, 11:09:31 am data from - date 20210603-20210604
+New personnels inserted: 6, dubplate personnels: 0
+Finish at June 4th 2021, 11:09:37 am
+Run at June 4th 2021, 11:14:30 am data from - date 20210603-20210604
+New personnels inserted: 6, dubplate personnels: 0
+Finish at June 4th 2021, 11:14:36 am
+Run at June 4th 2021, 11:19:03 am data from - date 20210603-20210604
+New personnels inserted: 6, dubplate personnels: 0
+Finish at June 4th 2021, 11:19:08 am
+Run at June 4th 2021, 11:25:55 am data from - date 20210603-20210604
+New personnels inserted: 6, dubplate personnels: 0
+Finish at June 4th 2021, 11:26:00 am
+Run at June 4th 2021, 11:28:07 am data from - date 20210603-20210604
+      - LINGURAR  numberSecurity: [ 171039911410719 ]  exist, skip insertion
+      - CORDERO  numberSecurity: [ 243036220100823 ]  exist, skip insertion
+      - FERKOUS  numberSecurity: [ 189065954007233 ]  exist, skip insertion
+      - BERTELOOT  numberSecurity: [ 190075918312485 ]  exist, skip insertion
+      - MOTAOUAKKIL  numberSecurity: [ 170019938057131 ]  exist, skip insertion
+New personnels inserted: 0, dubplate personnels: 6
+Finish at June 4th 2021, 11:28:12 am
+      - MARSYLLE  numberSecurity: [ 195095927123432 ]  exist, skip insertion
+Run at June 4th 2021, 11:28:32 am data from - date 20210603-20210604
+Run at June 4th 2021, 11:32:02 am data from - date 20210603-20210604
+      - CORDERO  numberSecurity: [ 243036220100823 ]  exist, skip insertion
+Run at June 4th 2021, 11:33:58 am data from - date 20210603-20210604
+Run at June 4th 2021, 11:34:43 am data from - date 20210603-20210604
+      - CORDERO  numberSecurity: [ 243036220100823 ]  exist, skip insertion
+      - BERTELOOT  numberSecurity: [ 190075918312485 ]  exist, skip insertion
+New personnels inserted: 4, dubplate personnels: 2
+Finish at June 4th 2021, 11:34:48 am
+Run at June 4th 2021, 11:38:27 am data from - date 20210603-20210604
+      - CORDERO  numberSecurity: [ 243036220100823 ]  exist, skip insertion
+      - BERTELOOT  numberSecurity: [ 190075918312485 ]  exist, skip insertion
+      - LINGURAR  numberSecurity: [ 171039911410719 ]  exist, skip insertion
+      - FERKOUS  numberSecurity: [ 189065954007233 ]  exist, skip insertion
+      - MARSYLLE  numberSecurity: [ 195095927123432 ]  exist, skip insertion
+      - MOTAOUAKKIL  numberSecurity: [ 170019938057131 ]  exist, skip insertion
+New personnels inserted: 0, dubplate personnels: 6
+Finish at June 4th 2021, 11:38:33 am
+Run at June 4th 2021, 11:39:03 am data from - date 20210603-20210604
+Run at June 4th 2021, 11:40:02 am data from - date 20210603-20210604
+New personnels inserted: 6, dubplate personnels: 0
+Finish at June 4th 2021, 11:40:08 am
+Run at June 4th 2021, 11:43:13 am data from - date 20210603-20210604
+New personnels inserted: 6, dubplate personnels: 0
+Finish at June 4th 2021, 11:43:18 am
+Run at June 4th 2021, 11:55:44 am data from - date 20210603-20210604
+New personnels inserted: 6, dubplate personnels: 0
+Finish at June 4th 2021, 11:55:49 am
