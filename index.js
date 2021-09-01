@@ -46,7 +46,6 @@ class ImportData {
     }
     // End getContratFromDate
 
-
     insertPersonnelData(singlePersonnel,fieldMatchPendoreTempo) {
         // Check if personnel already exist in Database will skip insertion
         if(this.numSecuList.includes(singlePersonnel.NumeroSecu)) {
